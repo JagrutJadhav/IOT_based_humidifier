@@ -12,4 +12,5 @@ Below is the block diagram of the system -
 Firmware Block Diagram -
 ![](images/block_diagram_software.png)
 
-
+Circuit Diagram -
+![](images/circuit.png)
