@@ -7,6 +7,6 @@ The humidifier built employs a STM-32 bluepill microcontroller as the main drive
 - Water level detector : It senses the water remaining in the humidifier and notifies the user to fill it if its emptying. 
 
 Below is the block diagram of the system -
-
+![](images/block_diagram)
 
 
